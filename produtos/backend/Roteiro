@@ -1,0 +1,15 @@
+Criar a tabela no Supabase
+Conectar o Supabase com o VSCode
+Instalar as dependencias
+npm init -y
+npm install
+npm install express
+npm install cors dotenv @supabase/supabase-js
+npm install @supabase/supabase-js
+Instalar o ThunderClient
+Rodar o servidor
+Teste
+New Request
+Testar as rotas e mostrar no Supabase
+Conclusão
+
